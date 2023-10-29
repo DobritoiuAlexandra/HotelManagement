@@ -1,0 +1,2 @@
+1,double,200.0,true
+2,triple,2220.0,false
